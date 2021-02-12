@@ -29,7 +29,7 @@
           <!-- EDIT BEGIN: Add to match Google Maps Api Key-->
       <meta-data
           android:name="com.google.android.geo.API_KEY"
-          android:value="AIzaSyDxqJ2H3IaRe9zaSiGnCKUoUBb5QTymMZ8"/>
+          android:value="AIzaSyAKmAuVwbZG4H9-msa3CVvbNVm6Jx4Bltg"/>
       <uses-library android:name="org.apache.http.legacy" android:required="false"/>
       <!-- EDIT END -->
     </application>

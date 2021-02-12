@@ -145,6 +145,13 @@ yarn add react-native-geolocation-service
 
 yarn add react-native-google-places-autocomplete
 
+yarn add react-native-maps-directions
+
+yarn add styled-components
+
+yarn add react-native-geocoding
+
+
 ```
 
 ## 2.2. Check App Permissions in AndroidManifest.xml file
@@ -154,7 +161,7 @@ yarn add react-native-google-places-autocomplete
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 
-<!-- EDIT BEGIN: Allow Pemition for User Location -->
+<!-- EDIT BEGIN: Allow Permition for User Location -->
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 <!-- EDIT END -->
 ```
